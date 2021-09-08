@@ -15,6 +15,10 @@ the NeoGeo CD SD Loader https://github.com/furrtek/NeoCDSDLoader.
 * `MicroSDCardSocket` TFP09-2-12B / CSD11251278002
 
 # Installation Sample
+The video of working demo here:   
+https://twitter.com/RgRDev/status/1258693780120592385?s=20  
+  
+Photos:  
 <img src="https://raw.githubusercontent.com/martinx72/NGCDSDL/main/photo/001.jpg" width="440">
 
 <img src="https://raw.githubusercontent.com/martinx72/NGCDSDL/main/photo/002.jpg" width="440">
